@@ -1,0 +1,13 @@
+h1 {
+    font-size: 30px;
+    color: chartreuse;
+    margin-bottom: 100px;
+}
+p{
+    font-size: 28px;
+    color: blueviolet;
+}
+.output{
+    font-size: 22px;
+    color: red;
+}
